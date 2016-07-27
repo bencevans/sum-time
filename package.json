@@ -1,0 +1,32 @@
+{
+  "name": "sum-time",
+  "version": "0.0.0",
+  "description": "Sum up time durations",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bencevans/sum-time.git"
+  },
+  "keywords": [
+    "sum",
+    "time",
+    "duration",
+    "calculator",
+    "calc"
+  ],
+  "author": "Ben Evans <ben@bensbit.co.uk> (https://bencevans.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bencevans/sum-time/issues"
+  },
+  "homepage": "https://github.com/bencevans/sum-time#readme",
+  "devDependencies": {
+    "tape": "^4.6.0"
+  },
+  "dependencies": {
+    "parse-duration": "^0.1.1"
+  }
+}
