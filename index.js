@@ -1,3 +1,4 @@
+'strict mode'
 const parseTime = require('parse-duration')
 
 module.exports = function sumTime () {
