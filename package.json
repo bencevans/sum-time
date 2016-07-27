@@ -1,6 +1,6 @@
 {
   "name": "sum-time",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Sum up time durations",
   "main": "index.js",
   "scripts": {
