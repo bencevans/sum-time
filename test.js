@@ -25,8 +25,3 @@ test('sumTime', function (t) {
 
   t.end()
 })
-
-test('human', function (t) {
-  t.equal(sumTime('3h20m', '1h', 30 * MINUTE), '5h50m', 'humanised')
-  t.end()
-})

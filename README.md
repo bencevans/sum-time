@@ -15,10 +15,7 @@
 const sumTime = require('sum-time')
 
 sumTime('12h23m', 43 * 60 * 1000, '3h58m')
-// =
-
-sumTime.human('12h23m', '3h58m')
-//
+// = 61440000
 ```
 
 ## Licence
